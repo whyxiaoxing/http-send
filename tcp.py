@@ -43,7 +43,8 @@ async def 接收信息(请求:fastapi.Request):
 
 if __name__ == "__main__":
   uvicorn.run(FAST初始化,host="127.0.0.1",port=8000)
-
+  print("你好")
 
 # the writer country is China  ,so "print"or "#" follow if Chinese， please translation 。
+
 
